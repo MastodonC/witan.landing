@@ -18,7 +18,7 @@ a:hover{text-decoration:underline}
 .title h2{font-size:4em;font-weight:400;padding:0 20px 10px 20px;margin:0;background-color:hsla(0,0%,0%,0.75);background-clip:padding-box}
 #witan-login{margin-top:3em;padding:1px 30px 20px 20px;height:100%;background-color:hsla(0,0%,0%,0.75)}
 #witan-login #loading{color:#fff;margin:15px auto 0 auto;display:table}
-#witan-login input{margin-bottom:.5em;width:260px}
+#witan-login input{margin-bottom:.5em;width:260px;color: #000;}
 #witan-login .pure-button{width:auto;}
 #witan-login #forgotten-link{font-size:10px;vertical-align:text-top;text-align:right;float:right;color:#4caecf;cursor:pointer}
 #witan-login .forgotten-div #back-button{float:right}
